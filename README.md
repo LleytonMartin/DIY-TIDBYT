@@ -19,10 +19,13 @@ Complete firmware is shown in Version2.ino file.
 
 
 **Conway's Game of Life**
+There are two versions. The original has only white pixels. The second version has randomized pixel colors in each generation which give a more aesthetic experience.
 
 https://github.com/LleytonMartin/DIY-TIDBYT/assets/100320409/11d651e1-c18c-4d13-ad1a-d3e91c591347
 
 **Current Song Playing On Spotify**
+Includes scrolling text for song title and artist name.
+Album art is downloaded each time the song is changed and stored on the Micro SD Card. I wrote an image resizing algorithm which takes the downloaded the bytes of the image in YCbCr format, converts it to RGB format and averagesthe pixels to a 20 x 20 image.
 
 https://github.com/LleytonMartin/DIY-TIDBYT/assets/100320409/a688c1dd-1828-4d43-9d10-0064b0c4fbbb
 
