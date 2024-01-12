@@ -22,4 +22,8 @@ Complete firmware is shown in Version2.ino file.
 
 https://github.com/LleytonMartin/DIY-TIDBYT/assets/100320409/11d651e1-c18c-4d13-ad1a-d3e91c591347
 
+**Current Song Playing On Spotify**
+
+https://github.com/LleytonMartin/DIY-TIDBYT/assets/100320409/a688c1dd-1828-4d43-9d10-0064b0c4fbbb
+
 
