@@ -5,3 +5,15 @@ For this project I utilized an ESP32-S2-DevKitC-1, Waveshare RGB Full Color LED 
 I have not had the opportunity to utilize the accelerometer. I plan to create a dynamic display which shows that movement of particles based on the rotation of the display.
 
 My next steps are to develop a PCB which could holds these components together neatly as well as a 3d printing case to make it more aesthetic.
+
+Complete firmware is shown in Version2.ino file.
+
+
+**Features**
+- Display Weather
+- Display current song playing on spotify (Access Token must be hardcoded currently)
+- Show a simulation of Conway's Game of Life
+- Play any 64x32 GIF place on Micro SD Card.
+- Features a web server in which brightness and the current GIF playing could be controlled
+
+  
