@@ -16,4 +16,9 @@ Complete firmware is shown in Version2.ino file.
 - Play any 64x32 GIF place on Micro SD Card.
 - Features a web server in which brightness and the current GIF playing could be controlled
 
-  
+
+
+**Conway's Game of Life**
+https://github.com/LleytonMartin/DIY-TIDBYT/assets/100320409/11d651e1-c18c-4d13-ad1a-d3e91c591347
+
+
